@@ -18,6 +18,7 @@ SCREENSHOTS:-
 LICENSE:-
 MIT license
 
-Contact:-
-vikezme@gmail.com
-https://github.com/vikezme
+CONTACT:-
+E-Mail:- vikezme@gmail.com
+
+GIT:- https://github.com/vikezme
